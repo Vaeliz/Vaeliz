@@ -1,4 +1,4 @@
-<h3 align="center">Yo.  My name is Zenivex, and I happen to be a front-end web developer from Fukuoka!</h3>
+<h3 align="center">Yo.  My name is Vaeliz, and I happen to be a front-end web developer from Fukuoka!</h3>
 
 ###
 
